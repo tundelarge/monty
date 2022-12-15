@@ -1,4 +1,3 @@
-
 # BrainF*ck Script to multiply two numbers
 # Result has to be less than 10 (a single digit number)
 # given example 42: 4 will be in block #1 2 will be in block #2
